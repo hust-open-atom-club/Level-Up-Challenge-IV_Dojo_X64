@@ -1,13 +1,13 @@
 id: kernel-security
 
-name: Spring 2025 - 内核攻防实践
+name: Spring 2026 - 内核攻防实践
 
 type: course
 
 award:
   emoji: linux
 
-comparator: 9993
+comparator: 9990
 
 modules:
   - id: kernel-exploitation
