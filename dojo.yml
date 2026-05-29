@@ -7,7 +7,7 @@ type: course
 award:
   emoji: linux
 
-comparator: 9990
+comparator: 9989
 
 modules:
   - id: kernel-exploitation
